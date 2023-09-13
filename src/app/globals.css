@@ -486,7 +486,7 @@ code {
 @media(max-width: 600px){
   .card:hover > .cont {
     font-size: 11px;
-    height: 84vh;
+    height: 40vh;
   }
   .close  {margin-right: 5vh;}
   
