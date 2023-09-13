@@ -330,7 +330,7 @@ code {
 @media screen and (max-height: 600px) {
  .modalDialog > div{
   width: 60%;
-  font-size: 10px;
+  font-size: 7px;
 
  }
 
