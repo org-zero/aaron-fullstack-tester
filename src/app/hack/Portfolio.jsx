@@ -35,16 +35,22 @@ const Portfolio = () => {
 <div>
     <a href="#close" title="Close" className="close">X</a>
     <h2>Hello dude!</h2>
-   <p>In conducting transactions, I offer a diverse array of payment methods to ensure convenience and flexibility for my clients. Whether you prefer the cutting-edge efficiency of Bitcoin, the widespread accessibility of PayPal, the traditional reliability of bank transfers, or the swift ease of SINPE Móvil, I am equipped to accommodate your payment preferences. With Bitcoin, I leverage the decentralized power of cryptocurrency to facilitate secure and borderless transactions. PayPal provides a seamless and globally recognized platform for swift digital payments. For those who value established methods, bank transfers offer a trusted route for financial interactions. Moreover, SINPE Móvil enables quick and hassle-free local transactions, catering to the needs of clients within the region. Your convenience and security are my utmost priorities, and I am committed to facilitating transactions through the methods that align best with your preferences.</p>
-   </div>
+  <p>Accept payment methods :
+    <br /><br />
+   &rarr;  Bank Transfer <br /> &rarr; Paypal <br /> &rarr; Bitcoin <br /> &rarr; Sinpe Movil
+  </p>
+    </div>
 </div>
 <br />
 <a href="#openModal2" className='button2'>Projects of work</a>
 <div id="openModal2" className="modalDialog">
 <div>
     <a href="#close" title="Close" class="close">X</a>
-    <h2>My experince such as Freelancer</h2>
-    <p>As a freelance developer, I have a robust track record of providing expert support in various facets of web development. I specialize in crafting engaging and user-friendly blogs, setting up effective e-commerce platforms, and designing eye-catching landing pages. My proficiency extends to creating automated scripts for streamlined processes. Additionally, I possess comprehensive skills in both front-end and back-end development, ensuring a seamless and holistic approach to web projects.    </p>
+    <h2>Works Projects</h2>
+    <p><a href="">Link #1</a></p>
+    <p><a href="">Link #1</a></p>
+    <p><a href="">Link #1</a></p>
+    <p><a href="">Link #1</a></p>
 </div>
 </div>                            
 </ul>
