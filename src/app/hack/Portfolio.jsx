@@ -55,7 +55,7 @@ const Portfolio = () => {
 <div className="row">
   <div className="side">
     <h2>About Me & My Skills like a Fullstack Developer </h2>
-    <h5>Languages & Frameworks, I that`s use for woking:</h5>
+    <h5>Languages & Frameworks, tools I use to work with:</h5>
     <div className="fakeimg" > <p>Javascript : Node &rarr; React &rarr; Next & Express</p> 
     <img src="https://wallpapercave.com/wp/wp2465898.png" alt="img" className='imgs' /></div> <br />
     <div className="fakeimg" > <p>Python : Dj jango</p><img src="https://wallpaperaccess.com/full/796849.jpg" alt="img" className='imgs' /></div> <br />
