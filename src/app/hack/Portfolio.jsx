@@ -47,10 +47,8 @@ const Portfolio = () => {
 <div>
     <a href="#close" title="Close" class="close">X</a>
     <h2>Works Projects</h2>
-    <p><a href="">Link #1</a></p>
-    <p><a href="">Link #1</a></p>
-    <p><a href="">Link #1</a></p>
-    <p><a href="">Link #1</a></p>
+    <p><a href="">zero-net-solutions.net</a></p>
+    <p><a href="">givovachile.mercadoshops.cl</a></p>
 </div>
 </div>                            
 </ul>
@@ -65,7 +63,7 @@ const Portfolio = () => {
     <div className="fakeimg" > <p>Javascript : Node &rarr; React &rarr; Next & Express</p> 
     <img src="https://wallpapercave.com/wp/wp2465898.png" alt="img" className='imgs' /></div> <br />
     <div className="fakeimg" > <p>Python : Dj jango</p><img src="https://wallpaperaccess.com/full/796849.jpg" alt="img" className='imgs' /></div> <br />
-    <div className="fakeimg" > <p>Java : Sprintboot</p><img src="https://cdn.wallpapersafari.com/89/85/2rZciQ.png" alt="img" className='imgs' /></div> <br />
+    <div className="fakeimg" > <p>Java </p><img src="https://cdn.wallpapersafari.com/89/85/2rZciQ.png" alt="img" className='imgs' /></div> <br />
       <p>I build things for the web.
       I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. <br /><br />
       Currently, I’m focused on building accessible, human-centered products at Upstatement..</p>
@@ -145,6 +143,7 @@ I am well-versed in troubleshooting technical issues and providing efficient sol
         <h2>Framework of Hacking</h2>
         <div className="cont">
             <p>My hacking framework revolves around five key principles: thorough documentation, in-depth research, continuous hands-on practice, active participation in forums and communities, and unwavering ethics. I kick off each project with meticulous research to understand the target thoroughly and identify potential vulnerabilities. Next, I dive into relevant documentation, leveraging resources like manuals, tutorials, and books to expand my knowledge base. Continuous practice is paramount, enabling me to hone my technical skills and develop new attack and defense techniques. Additionally, engaging in forums and community interactions provides valuable shared insights and feedback. Lastly, I always maintain a strong ethical stance, steering clear of any illegal activities and acting in the best interest of online security. This comprehensive approach allows me to effectively and responsibly tackle cybersecurity challenges.</p>
+            <h4>In Progress.....</h4>
          <div class="button-container">
         </div>
         </div>
@@ -157,6 +156,8 @@ I am well-versed in troubleshooting technical issues and providing efficient sol
         <h2>Online Store ( Ecommerce )</h2>
         <div className="cont">
             <p>My ongoing project, an e-commerce platform for computer products, is set to revolutionize the digital marketplace. This innovative tool will provide customers with a seamless shopping experience for a wide range of tech products. With a user-friendly interface and intuitive navigation, it aims to simplify the process of finding and purchasing computer hardware and software. The platform will feature robust search and recommendation algorithms to assist customers in making informed choices. Security will be a top priority, ensuring safe transactions and data protection. Stay tuned for an e-commerce solution that caters specifically to the needs of tech enthusiasts and professionals alike.</p>
+            <h4>In Progress......</h4>
+
             <div class="button-container">
         </div>
         </div>
@@ -170,7 +171,7 @@ I am well-versed in troubleshooting technical issues and providing efficient sol
         <div className="cont"> 
             <p>App Weather is a user-friendly and reliable weather application that provides real-time weather information and forecasts at your fingertips. With a sleek and intuitive interface, users can easily access current weather conditions, hourly and daily forecasts, as well as crucial meteorological data such as temperature, humidity, wind speed, and precipitation. Whether you're planning a weekend getaway or simply want to stay informed about local weather patterns, Apply Weather offers accurate and up-to-date information, making it your go-to choice for all things weather-related. Say goodbye to unexpected weather surprises and stay prepared with Apply Weather today!  </p>
         <div class="button-container">
-           <a href='https://weather-14.netlify.app/' className="jumping-button">Go to Channel of Facebook</a>
+           <a href='https://weather-14.netlify.app/' className="jumping-button">Go to website</a>
         </div>
         </div>
     </div>
@@ -183,7 +184,7 @@ I am well-versed in troubleshooting technical issues and providing efficient sol
         <div className="cont">
             <p>My Password Generator tool is a versatile and secure solution for generating strong and unique passwords. It employs advanced algorithms to create complex combinations of letters, numbers, and symbols, ensuring optimal security for online accounts. With a user-friendly interface, it simplifies the process of password creation, making it accessible to users of all levels. The tool also offers customization options, allowing users to tailor passwords to specific requirements. With robust encryption, it prioritizes data protection, and its offline capabilities guarantee privacy. Experience peace of mind knowing your online accounts are safeguarded by my Password Generator tool.       </p>
         <div class="button-container">
-           <a href='https://hash-password.netlify.app/' className="jumping-button">Go to Channel of Facebook</a>
+           <a href='https://hash-password.netlify.app/' className="jumping-button">Go to website</a>
         </div>
             <div className="link">
                 <a href="#"><i class="fab fa-codepen"></i></a>
