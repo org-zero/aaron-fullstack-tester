@@ -172,6 +172,7 @@ I am well-versed in troubleshooting technical issues and providing efficient sol
             <p>App Weather is a user-friendly and reliable weather application that provides real-time weather information and forecasts at your fingertips. With a sleek and intuitive interface, users can easily access current weather conditions, hourly and daily forecasts, as well as crucial meteorological data such as temperature, humidity, wind speed, and precipitation. Whether you're planning a weekend getaway or simply want to stay informed about local weather patterns, Apply Weather offers accurate and up-to-date information, making it your go-to choice for all things weather-related. Say goodbye to unexpected weather surprises and stay prepared with Apply Weather today!  </p>
         <div class="button-container">
            <a href='https://weather-14.netlify.app/' className="jumping-button">Go to website</a>
+
         </div>
         </div>
     </div>
@@ -187,8 +188,8 @@ I am well-versed in troubleshooting technical issues and providing efficient sol
            <a href='https://hash-password.netlify.app/' className="jumping-button">Go to website</a>
         </div>
             <div className="link">
-                <a href="#"><i class="fab fa-codepen"></i></a>
-                <a href="#"><i class="fab fa-github"></i></a>
+            
+                <a href="https://github.com/org-zero"><i class="fab fa-github"></i></a>
             </div>
         </div>
     </div>
@@ -200,7 +201,7 @@ I am well-versed in troubleshooting technical issues and providing efficient sol
     
 <div className="footer">
   <h2>
-    &copy; Ethical Hacker Certificated &trade;</h2>   
+    &copy; Ethical Hacker Certificated &trade; </h2>   
 </div> 
         </div>
         </div>
